@@ -1,0 +1,15 @@
+/*
+<head>
+  <link rel="stylesheet" href="/Users/naromieaugustin/Documents/16-week/UX_UI_HW_17/CSS/style.css">
+</head> 
+*/
+
+.inline-block{
+  vertical-align: top;
+  display: inline-block;
+}
+
+.logo {
+  width: 23%;
+  padding: 1%;
+}
